@@ -1,0 +1,36 @@
+
+.a{
+    text-decoration: none;
+    
+}
+#footer{
+    width: 100%;
+text-align: center;
+border-top: 2px solid rgb(86, 94, 156);
+   }
+
+.social-links i{
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 30px;
+    background:linear-gradient(90.21deg, rgb(25, 25, 63),rgb(26, 22, 22),rgb(38, 38, 88)); 
+    color: white;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    transition: 0.5s ease;
+    cursor: pointer;
+}
+.social-links i:hover{
+    background: #7c6ac6;
+}
+.para1{
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
